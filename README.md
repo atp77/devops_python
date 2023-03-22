@@ -1,5 +1,9 @@
 # devops_python
-devops ci/cd with python
+Devops CI/CD with python
+
+Run the following command to get started: 
+`source ~/.venv/bin/activate`
+
 
 ## Create a template
 

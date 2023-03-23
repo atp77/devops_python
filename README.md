@@ -9,8 +9,8 @@ Run the following command to get started:
 
 * `requirements.txt`: Required Packages
 * `Makefile` : Run Commands
-* `hello.py` : main code
-* `test_hello.py`: test Code
+* `app.py` : main code
+* `test_app.py`: test Code
 
 Build Server YAML Files:
 

@@ -1,8 +1,8 @@
 from app import fib
 
 def test_fib():
-    assert "3" in fib(2)
-    assert "4" in fib(3)
+    assert 3 in fib(2)
+    assert 4 in fib(3)
     assert "5" in fib(5)
     assert "8" in fib(6)
     assert "13" in fib(7)

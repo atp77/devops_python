@@ -7,4 +7,4 @@ def fib(num):
         return fib(num -2) + fib(num - 1)
 
 if __name__ == "__main__":
-    print(fib(5))
+    print(fib(3))

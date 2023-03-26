@@ -6,7 +6,7 @@ def test_fib():
     assert "5" in fib(5)
     assert "8" in fib(6)
     assert "13" in fib(7)
-    assert "0" in fib(0))
+    assert "0" in fib(0)
     assert "1" in fib(1)
     assert "2" in fib(1)
 

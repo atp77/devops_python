@@ -1,7 +1,7 @@
 from app import fib
 
 def test_fib():
-    assert "2" in fib(3)
+    assert 2 in fib(3)
     assert "3" in fib(4)
     assert "5" in fib(5)
     assert "8" in fib(6)

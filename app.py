@@ -1,7 +1,12 @@
-#!/usr/
+#!/usr/bin/env python
 
-def hello(name):
-    return f"Your name is: {name}"
+def fib(num):
+    if num <= 1:
+        print(num)
+        return num
+    else:
+        print(num)
+        return fib(num -2) + fib(num - 1)
 
 if __name__ == "__main__":
-    print(hello("John"))
+    print(fib(5))
